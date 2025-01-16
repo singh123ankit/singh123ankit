@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @singh123ankit
-- 👀 I’m interested in cloud computing and salesforce.
+- 👀 I’m interested in cloud computing and microservices.  
 - 🌱 I’m currently learning cloud computing .
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Go projects.
 - 📫 How to reach me ...singh37ankit@gmail.com
 
 <!---
