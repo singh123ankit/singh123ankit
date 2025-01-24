@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @singh123ankit
 - 👀 I’m interested in cloud computing and microservices.  
-- 🌱 I’m currently learning cloud computing .
+- 🌱 I’m currently learning AWS and Kubernetes.
 - 💞️ I’m looking to collaborate on Go projects.
 - 📫 How to reach me ...singh37ankit@gmail.com
 
